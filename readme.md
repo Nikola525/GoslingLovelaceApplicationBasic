@@ -1,7 +1,7 @@
 #GoslingLovelace Introduction Application
 
 GoslingLovelaceApplication
-![Demo](display/GoslingLovelaceApplication.gif)
+![Demo](display/GoslingLovelaceApplicationBasic.gif )
 
 
 
